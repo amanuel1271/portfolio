@@ -1,0 +1,281 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Welcome to My Portfolio",
+    "greeting": "Hello there",
+    "introduction": "I'm",
+    "name": "Amanuel",
+    "title": "Backend Software Engineer",
+    "description": "Building robust backend systems and APIs with a focus on scalability, performance, and clean architecture.",
+    "location": "Seoul, South Korea",
+    "status": "Open to work",
+    "learnMore": "Learn More",
+    "viewExperience": "View Experience"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Backend Engineer",
+    "description": "I'm a passionate backend engineer specializing in building robust, scalable server-side systems and APIs. I focus on designing efficient architectures, optimizing performance, and ensuring reliable data flow that powers modern applications.",
+    "description2": "With strong problem-solving skills and a curious mindset, I enjoy tackling complex backend challenges and believe I can be a valuable asset to any development team.",
+    "quickFacts": {
+      "title": "Quick Facts",
+      "nickname": "Nickname",
+      "nicknameValue": "Aman",
+      "age": "Age",
+      "ageValue": "28",
+      "experience": "Experience",
+      "experienceValue": "3 Years as a Software Engineer",
+      "languages": "Speaks",
+      "languagesValue": "English, Amharic, Beginner Korean",
+      "hobbies": "Hobbies",
+      "hobbiesValue": "Lifting weights, watching movies, and coding in my free time",
+      "education": "Education",
+      "educationValue": "BS Electrical Engineering with Minor in Computer Science from",
+      "scholarship": "Full-fledged scholarship recipient",
+      "ranking": "Ranked #53 in QS World University Rankings 2025",
+      "coursework": {
+        "Computer Science": "Computer Science",
+        "Electrical Engineering": "Electrical Engineering",
+        "courses": {
+          "Machine Learning": "Machine Learning",
+          "Introduction to Algorithms": "Introduction to Algorithms",
+          "Programming Principles": "Programming Principles",
+          "Programming Languages": "Programming Languages",
+          "Discrete Mathematics": "Discrete Mathematics",
+          "Computer Organization": "Computer Organization",
+          "Data Structures": "Data Structures",
+          "Advanced Programming": "Advanced Programming",
+          "Programming Structures": "Programming Structures",
+          "Computer Networks": "Computer Networks",
+          "Network Programming": "Network Programming"
+        }
+      }
+    },
+    "downloadResume": "Download Resume"
+  },
+  "experience": {
+    "title": "Experience",
+    "overview": "Sep 2022 - Sep 2025: Backend Engineer at DNSEver Inc. / Probit Global Exchange",
+    "project": "Project",
+    "projects": {
+      "lims": {
+        "title": "Payment Platform Leadership",
+        "summary": "Architected BuyCrypto platform using Node.js/NestJS, collaborating with cross-functional teams and 10+ global payment providers to process 10,000+ monthly transactions with 99.8% success rate.",
+        "description_1": "Built fault-tolerant worker system with automated crypto transfers, reducing manual processing by 85% through MSA architecture.",
+        "description_2": "Implemented comprehensive Jest unit testing (90%+ coverage) and CI/CD pipelines for zero-downtime deployments.",
+        "description_3": "Collaborated with cross-functional teams and integrated with 10+ global payment providers to ensure high transaction success rates."
+      },
+      "cogthera_backend": {
+        "title": "Notification & Real-time Infrastructure",
+        "summary": "Built scalable notification service using NestJS and gRPC, handling 50K+ daily messages via Redis-based queue system with 99.9%+ delivery rate.",
+        "description_1": "Created real-time pub/sub infrastructure using Redis for live candlestick charts and developed high-performance WebSocket services.",
+        "description_2": "Supporting 10K+ concurrent users with sub-100ms latency and streaming 500+ messages/second.",
+        "description_3": "Collaborated with application client teams for seamless integration and optimal performance.",
+        "description_4": "Enhanced system efficiency and performance optimization.",
+        "description_5": "Built secure aggregation service using FastAPI and WebSockets for real-time dashboard data.",
+        "description_6": "Self-hosted Sentry for error monitoring, providing timely incident detection and streamlined debugging processes.",
+        "description_7": "Led development of asynchronous services leveraging cloud storage for performance optimization."
+      },
+      "mobile_app": {
+        "title": "Testing & DevOps",
+        "summary": "Implemented comprehensive Jest unit testing achieving 90%+ code coverage across microservices with automated CI/CD pipelines.",
+        "description_1": "Implemented CI/CD pipeline setup with automated deployments on GitLab to AWS cloud infrastructure.",
+        "description_2": "Collaborated with DevOps team for zero-downtime releases using Docker/Kubernetes.",
+        "description_3": "Set up monitoring via Grafana and Datadog for comprehensive system observability."
+      }
+    },
+    "company": {
+      "title": "Backend Engineer",
+      "name": "DNSEver Inc. / Probit Global Exchange",
+      "intro": "Top 40 cryptocurrency exchange ranked by CoinMarketCap, processing 100K+ daily transactions",
+      "location": "Seoul, South Korea",
+      "industry": "Cryptocurrency Exchange"
+    },
+    "description": "My professional journey and work experience.",
+    "openToWork": {
+      "title": "Looking for New Opportunities",
+      "description": "Open to exciting new roles and challenges in software development",
+      "badges": {
+        "fullTime": "Full-time",
+        "onSite": "On-site",
+        "remote": "Remote",
+        "hybrid": "Hybrid"
+      }
+    },
+    "careerCertificate": "Career Certificate",
+    "companyLogoAlt": "{company} logo",
+    "companies": {
+      "contentBake": {
+        "title": "Full Stack Developer",
+        "company": "Content Bake",
+        "meta": {
+          "intro": "A modern content creation platform with AI capabilities",
+          "location": "Seoul, South Korea",
+          "industry": "Content Platform"
+        },
+        "projects": {
+          "contentPlatform": {
+            "title": "Content Creation Platform",
+            "summary": "Led the development of a Next.js content platform that transformed content creation with AI capabilities.",
+            "description": [
+              "Built and optimized a Next.js platform (App Router with Server Components/Actions), integrating OpenAI and Google APIs for content management and secure cloud storage.",
+              "Streamlined content creation workflows by implementing a block-based WYSIWYG editor with Tiptap.",
+              "Orchestrated complex business logic around content generation and management, ensuring robust content tracking and seamless user experiences."
+            ]
+          }
+        }
+      },
+      "contentGen": {
+        "title": "Backend Developer",
+        "company": "Content Gen",
+        "meta": {
+          "intro": "AI-powered content generation service",
+          "location": "Seoul, South Korea",
+          "industry": "AI/ML"
+        },
+        "projects": {
+          "contentGenServer": {
+            "title": "Content Generation Server",
+            "summary": "Developed and maintained a microservice-based content generation server with AI capabilities.",
+            "description": [
+              "Designed and implemented a microservice-based backend architecture ensuring high performance and scalability.",
+              "Implemented audit logging using PostgreSQL triggers and integrated OAuth 2.0 for secure user management.",
+              "Built a secure content generation service using FastAPI and WebSockets for real-time updates.",
+              "Self-hosted monitoring tools for error tracking, providing timely incident detection and streamlined debugging processes.",
+              "Led the development of an asynchronous content generation server, leveraging caching in S3-compatible storage to optimize performance and cost."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "description": "A selection of my personal projects.",
+    "viewProject": "View Project",
+    "technicalDetails": "Technical Details",
+    "liveSite": "Live Site",
+    "thisWebsite": "This Website",
+    "descriptionServer": "Description (server)",
+    "repository": "Repository",
+    "items": {
+      "dex": {
+        "title": "Decentralized Exchange (DEX) Platform",
+        "summary": "Full-stack DeFi trading platform with AMM smart contracts on zkSync testnet",
+        "description": [
+          "Built full-stack DeFi trading platform with Next.js frontend and AMM smart contracts on zkSync testnet",
+          "Implemented token swaps and liquidity pools with automated testing using 25 trading bot personas",
+          "Optimized transaction costs to < $0.01 using Layer 2 scaling with sub-5s transaction speed",
+          "Deployed live contract at 0xA5F6bde4C85379fd7339805071901F367F58a1F2 on zkSync Sepolia"
+        ]
+      },
+      "portfolio": {
+        "title": "Personal Portfolio Website",
+        "summary": "Responsive portfolio showcasing professional projects and skills",
+        "description": [
+          "Created a clean and modern portfolio site using Next.js, shadcn/ui, and Tailwind CSS to showcase professional projects and skill sets",
+          "Implemented multi-language support with English and Korean translations for international accessibility"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Have a question? I'd love to hear from you.",
+    "email": {
+      "label": "Email Address",
+      "placeholder": "your@email.com",
+      "description": "I'll never share your email with anyone else."
+    },
+    "message": {
+      "label": "Your Message",
+      "placeholder": "How can I help you?"
+    },
+    "submit": "Send Message",
+    "success": "Email client opened! Please send the message from your email app.",
+    "error": "Failed to send message. Please try again later.",
+    "validation": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "messageRequired": "Message is required",
+      "messageTooShort": "Message must be at least 10 characters",
+      "messageTooLong": "Message must not exceed 1000 characters"
+    }
+  },
+  "common": {
+    "language": "Language",
+    "english": "English",
+    "korean": "한국어",
+    "searchLanguage": "Search language...",
+    "noLanguageFound": "No language found.",
+    "selectLanguage": "Select language",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "header": {
+    "github": "GitHub Profile",
+    "linkedin": "LinkedIn Profile"
+  },
+  "skills": {
+    "title": "Technologies and Tools",
+    "description": "A comprehensive overview of my technical expertise and tools I work with.",
+    "categories": {
+      "Languages": {
+        "title": "Programming Languages",
+        "description": "Languages used for backend and system development"
+      },
+      "Backend": {
+        "title": "Backend Technologies",
+        "description": "Server-side frameworks, databases, and APIs"
+      },
+      "Frontend": {
+        "title": "Frontend Technologies",
+        "description": "Client-side frameworks and markup languages"
+      },
+      "Infrastructure": {
+        "title": "Infrastructure & DevOps",
+        "description": "Deployment, monitoring, and cloud infrastructure"
+      },
+      "Testing": {
+        "title": "Testing & Quality",
+        "description": "Testing frameworks and quality assurance practices"
+      }
+    },
+    "tools": {
+      "Redis": {
+        "description": "I use Redis as a database, cache, for rate limiting and performance optimization."
+      },
+      "Node": {
+        "description": "I use Node.js to build scalable server-side applications and APIs."
+      },
+      "PostgreSQL": {
+        "description": "I use PostgreSQL for robust data storage with features like triggers and audit logging."
+      },
+      "Next": {
+        "description": "I use Next.js to build full-stack applications with App Router and Server Components."
+      },
+      "TailwindCSS": {
+        "description": "I use TailwindCSS for rapid UI development and responsive designs."
+      },
+      "HTML": {
+        "description": "I use HTML to structure and present content on the web."
+      },
+      "CSS": {
+        "description": "I use CSS to style the presentation of a document written in HTML."
+      },
+      "Docker": {
+        "description": "I use Docker to containerize and deploy applications with streamlined CI/CD."
+      },
+      "VSCode": {
+        "description": "I use VS Code as my primary code editor."
+      }
+    }
+  }
+} 
