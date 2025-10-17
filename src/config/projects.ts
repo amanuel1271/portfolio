@@ -72,7 +72,7 @@ export const projects: ProjectCardProps[] = [
       "items.portfolio.description.0",
       "items.portfolio.description.1",
     ],
-    site: "https://amanuel-portfolio.vercel.app",
+    site: "https://amanuel-portfolio-q1t1u7fr3-amanuels-projects-d6df5227.vercel.app",
     repo: "https://github.com/amanuel1271/portfolio",
     coverImage: {
       light: "/portfolio_cover.png",
